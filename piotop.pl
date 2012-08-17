@@ -20,7 +20,7 @@
 
 use strict;
 use warnings;
-use lib "/usr/local/lib/myperl_lib";
+use lib "./lib";
 use System::Proc;
 use File::Spec;
 use File::Basename;
