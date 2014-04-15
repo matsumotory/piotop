@@ -1,6 +1,12 @@
 ## What's piotop.pl
 device I/O per process monitoring tool.
 
+## Setup
+
+Install required modules.
+
+    ./setup.sh
+
 ## How to use
 
 * command
