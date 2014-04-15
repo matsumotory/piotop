@@ -20,7 +20,9 @@
 
 use strict;
 use warnings;
-use lib "./lib";
+use FindBin;
+use lib "$FindBin::Bin/lib";
+use lib "$FindBin::Bin/extlib/lib/perl5";
 use System::Proc;
 use File::Spec;
 use File::Basename;
